@@ -1,8 +1,6 @@
-package project;
-
 import java.util.Scanner;
 
-public class Project {
+public class project {
 
     public static void main(String[] args) {
 
